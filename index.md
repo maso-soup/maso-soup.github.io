@@ -46,13 +46,13 @@ Two of the most popular wallets to take full advantage of interaction with Carda
 
 - [Eternl](Eternl.io) - Eternl wallet is an easy-to-use light wallet used developed by the Eternl team and loved by many in the community. It can be used for simple transactions, smart contract transactions, and staking. 
 
-- Nami (namiwallet.io) - Nami Wallet is another easy-to-use light wallet developed by Alessandro Konrad and love in the community. It can also be used for simple transactions, smart contract transactions, and staking with the Berry pool. 
+- [Nami](namiwallet.io) - Nami Wallet is another easy-to-use light wallet developed by Alessandro Konrad and love in the community. It can also be used for simple transactions, smart contract transactions, and staking with the Berry pool. 
 
 These will allow you to connect and interact with all the following DeFi Protocols, NFT Marketplaces, and stake your Ada. More on these in the following sections. 
 
 If you want to run a Cardano full node wallet, Cardano has those too: 
 
-- Daedalus (daedaluswallet.io) - Although Daedalus can’t interact with dApps like the above mentioned, it stores and verifies the full Cardano blockchain locally. This is in contrast to the lite wallets above that reference other servers with a copy of the Cardano blockchain instead of your device. 
+- [Daedalus](daedaluswallet.io) - Although Daedalus can’t interact with dApps like the above mentioned, it stores and verifies the full Cardano blockchain locally on your machine. This is in contrast to the lite wallets above that reference other servers with a copy of the Cardano blockchain instead of your device. This beast is developed by IOG.
 
 After choosing a wallet, each platform will have steps and instructions on how to set them up securely and best practices around maintaining them. **Always remember to store your seed phrases in a safe place and never share them with anyone.**
 
@@ -76,9 +76,9 @@ This is in contrast to many other blockchains which accomplish these token techn
 
 NFT marketplaces are dApps that allow users to connect their wallets and buy NFTs, typically after mint being sold by other users. Following are some of the top players in the marketplace business:
 
-- JPG.store (jpg.store) - JPG.store is responsible for the vast majority of NFT sales on Cardano, and has a very simple, easy to us UX. 
+- [JPG.store](jpg.store) - JPG.store is responsible for the vast majority of NFT sales on Cardano, and has a very simple, easy to us UX. 
 
-- Artifct (artifct.app) - Artifct is a popular marketplace that is geared towards artistic, rather than the typical collectible NFT, audiences. 
+- [Artifct](artifct.app) - Artifct is a popular marketplace that is geared towards artistic, rather than the typical collectible NFT, audiences. 
 
 ### NFT Projects
 
