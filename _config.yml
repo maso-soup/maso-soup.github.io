@@ -1,3 +1,5 @@
 remote_theme: poole/lanyon
 title: The Cardano Ecosystem Quick Start Guide
 description: A Guide for Beginners to Veterans to Learn about the Cardano Ecosystem
+
+theme: jekyll-theme-leap-day
