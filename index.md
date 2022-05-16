@@ -14,8 +14,9 @@ This may cause some confusion among complete beginners reading through this, but
 
 When asked to explain what the point of Cardano is in 280 characters or less, Cardano Founder and IOG CEO Charles Hoskinson made this explanation: 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Cardano is an open platform that seeks to provide economic identity to the billions who lack it by providing decentralized applications to manage identity, value and governance</p>&mdash; Charles Hoskinson (@IOHK_Charles) <a href="https://twitter.com/IOHK_Charles/status/1290058248347770880?ref_src=twsrc%5Etfw">August 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
- While I could write a whole article about that topic, I think this encompasses the sentiment of why many of us in the community so strongly support Cardano and it’s mission. It is a blockchain to change the many entrenched systems of the world and is for everyone, all 7 billion of us. 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Cardano is an open platform that seeks to provide economic identity to the billions who lack it by providing decentralized applications to manage identity, value and governance</p>&mdash; Charles Hoskinson (@IOHK_Charles) <a href="https://twitter.com/IOHK_Charles/status/1290058248347770880?ref_src=twsrc%5Etfw">August 2, 2020</a></blockquote>
+
+While I could write a whole article about that topic, I think this encompasses the sentiment of why many of us in the community so strongly support Cardano and it’s mission. It is a blockchain to change the many entrenched systems of the world and is for everyone, all 7 billion of us. 
 
 # Cardano, ADA, and Tokens
 
