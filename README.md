@@ -111,7 +111,7 @@ The aim of this category of NFTs is to showcase NFT projects that have stood the
 
 - [Clay Nation by Clay Mates](claynation.io) - Clay Nation is a collection of 10,000 digital characters with algorithmically assembled, handcrafted clay traits. Each unique character is a one-of-a kind NFT, stored on the Cardano blockchain. Just like in the non-clay world, no two members of Clay Nation are the same.  
 
-- [DEADPXLS(pxlz.org)] [DING] - DEADPXLZ are the first interactive NFT collectibles on the Cardano blockchain, and were well know know for their unique and groundbreaking minting process.
+- [DEADPXLS](pxlz.org) [DING] - DEADPXLZ are the first interactive NFT collectibles on the Cardano blockchain, and were well know know for their unique and groundbreaking minting process.
 
 - [Chilled Kongs](chilledkongs.com) - In today’s hectic world, Chilled Kongs is here to remind us of the value of taking a moment to chill, to hang with friends, or to just do whatever we love.
 
