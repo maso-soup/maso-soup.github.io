@@ -1,5 +1,35 @@
 # The Cardano Ecosystem Quick Start Guide
 
+- [The Cardano Ecosystem Quick Start Guide](#the-cardano-ecosystem-quick-start-guide)
+  * [What’s the point of this guide?](#what-s-the-point-of-this-guide-)
+  * [Why Cardano?](#why-cardano-)
+  * [Cardano, ADA, and Tokens](#cardano--ada--and-tokens)
+  * [How to Buy](#how-to-buy)
+  * [Self Custody and Wallets](#self-custody-and-wallets)
+  * [Sending and Receiving ADA](#sending-and-receiving-ada)
+  * [Staking your ADA](#staking-your-ada)
+  * [NFTs on Cardano](#nfts-on-cardano)
+    + [Marketplaces](#marketplaces)
+    + [NFT Projects](#nft-projects)
+    + [Household Name Projects](#household-name-projects)
+    + [Other Well Known Projects](#other-well-known-projects)
+    + [Metaverse and Land Projects](#metaverse-and-land-projects)
+    + [Payment Domains](#payment-domains)
+    + [Data Aggregates](#data-aggregates)
+    + [Creating NFTs](#creating-nfts)
+  * [DeFi on Cardano](#defi-on-cardano)
+    + [DEXes](#dexes)
+    + [Lend/Borrow Protocols](#lend-borrow-protocols)
+    + [Stablecoin Protocols](#stablecoin-protocols)
+    + [ISPOs and Token Distributions](#ispos-and-token-distributions)
+  * [Community and Learning Resources:](#community-and-learning-resources-)
+    + [Twitter Accounts to Follow:](#twitter-accounts-to-follow-)
+    + [Discord Servers:](#discord-servers-)
+    + [Informational Sites:](#informational-sites-)
+  * [Final Words](#final-words)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 ## What’s the point of this guide?
 
 Imagine being dropped in the middle of a new city and being handed a pamphlet that was able to infuse all of the knowledge, history, and sentiment of a local into your brain, without having to figure it all out slowly yourself. 
