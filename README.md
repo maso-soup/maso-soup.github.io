@@ -1,3 +1,10 @@
+# Lanyon
+
+Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+
+![Lanyon](https://f.cloud.github.com/assets/98681/1825266/be03f014-71b0-11e3-9539-876e61530e24.png)
+![Lanyon with open sidebar](https://f.cloud.github.com/assets/98681/1825267/be04a914-71b0-11e3-966f-8afe9894c729.png)
+
 # The Cardano Ecosystem Quick Start Guide
 
 ## What’s the point of this guide?
@@ -297,16 +304,6 @@ The best way to learn more and become more involved in the Cardano Ecosystem is 
 Good luck, and have fun!
 
 P.S. I will try to update this periodically, so it is always a decent representation of how to get started in the Cardano ecosystem at whatever current state it is in. If you learned something and would like to support it feel free to toss a sheckle or two over at $falcon :)
-
-
-
-# Lanyon
-
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
-
-![Lanyon](https://f.cloud.github.com/assets/98681/1825266/be03f014-71b0-11e3-9539-876e61530e24.png)
-![Lanyon with open sidebar](https://f.cloud.github.com/assets/98681/1825267/be04a914-71b0-11e3-966f-8afe9894c729.png)
-
 
 ## Contents
 
