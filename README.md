@@ -19,7 +19,7 @@ Imagine being dropped in the middle of a new city and being handed a pamphlet th
 
 My goal with this guide is to give you the current state of Cardano and what all of us actively in the community take for granted as “common knowledge” and drop it straight into your brain to orient yourself in the ecosystem as quickly and efficiently as possible. 
 
-**This guide is not meant to be exhaustive by any means, but to give you a quick overview of all the major sectors of and major players in the Cardano ecosystem to helped you get involved quickly with a basic understanding.**
+**This guide is not meant to be exhaustive by any means, but to give you an overview of all the major sectors of and major players in the Cardano ecosystem to helped you get involved quickly with a basic understanding.**
 
 This guide also aims to accomplish this goal simultaneously whether you are a complete newbie interested in Cardano wanting to get started or are already a crypto familiar person but native to another blockchain. 
 
@@ -45,7 +45,7 @@ Projects building on Cardano can/have created myriad of other Tokens for differe
 
 ## How to Buy
 
-Cardano, like many cryptocurrencies, can be easily bought and sold through most crypto exchanges such as Coinbase, Kraken, FTX, Binance, and many more.
+Cardano, like many cryptocurrencies, can be easily bought and sold through most crypto exchanges such as [Coinbase](coinbase.com), Kraken, FTX, Binance, and many more.
 
 ## Self Custody and Wallets
 
@@ -221,7 +221,7 @@ I can guarantee I will be missing accounts, sites, and servers below, but I beli
 
 One of the largest parts of crypto communities is Twitter. Love it or hate, Twitter has become the de facto meeting of most crypto personalities,  a vortex of information, and this is no different for the Cardano community. I have listed many accounts that I consider worth the follow to learn more: 
 
-- Input Output Media (@IOHKMedia) - Company that is commissioned to by Cardano Foundation to develop Cardano
+- Input Output Media (@IOHKMedia) - Company that is commissioned by the Cardano Foundation to develop Cardano
 
 - Cardano Foundation (@CardanoStiftung) - Cardano Foundation
 
