@@ -3,7 +3,7 @@
 - [The Cardano Ecosystem Quick Start Guide](#the-cardano-ecosystem-quick-start-guide)
   * [What’s the point of this guide?](#what-s-the-point-of-this-guide)
   * [Why Cardano?](#why-cardano)
-  * [Cardano, ADA, and Tokens](#cardano--ada--and-tokens)
+  * [Cardano, ADA, and Tokens](#cardano-ada-and-tokens)
   * [How to Buy](#how-to-buy)
   * [Self Custody and Wallets](#self-custody-and-wallets)
   * [Sending and Receiving ADA](#sending-and-receiving-ada)
