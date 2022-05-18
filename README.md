@@ -3,11 +3,11 @@
 - [The Cardano Ecosystem Quick Start Guide](#the-cardano-ecosystem-quick-start-guide)
   * [What’s the point of this guide?](#what-s-the-point-of-this-guide)
   * [Why Cardano?](#why-cardano)
-  * [Cardano, ADA, and Tokens](#cardano-ada-and-tokens)
+  * [Cardano, Ada, and Tokens](#cardano-ada-and-tokens)
   * [How to Buy](#how-to-buy)
   * [Self Custody and Wallets](#self-custody-and-wallets)
-  * [Sending and Receiving ADA](#sending-and-receiving-ada)
-  * [Staking your ADA](#staking-your-ada)
+  * [Sending and Receiving Ada](#sending-and-receiving-ada)
+  * [Staking your Ada](#staking-your-ada)
   * [NFTs on Cardano](#nfts-on-cardano)
   * [DeFi on Cardano](#defi-on-cardano)
   * [Community and Learning Resources:](#community-and-learning-resources)
@@ -33,7 +33,7 @@ When asked to explain what the point of Cardano is in 280 characters or less, Ca
 
 While I could write a whole article about that topic, I think this encompasses the sentiment of why many of us in the community so strongly support Cardano and it’s mission. It is a blockchain to change the many entrenched systems of the world and is for everyone, all 7 billion of us. 
 
-## Cardano, ADA, and Tokens
+## Cardano, Ada, and Tokens
 
 Before we continue, I want to clarify a few terms that are used interchangeably in crypto, including within the Cardano ecosystem itself: 
 
@@ -41,11 +41,11 @@ Cardano is the name of blockchain and the project as a whole.
 
 Ada is the Native Token of the Cardano blockchain, the base transaction unit. 
 
-Projects building on Cardano can/have created myriad of other Tokens for different use cases. These tokens reside on the base ledger like Ada, in contrast to other blockchains which need smart contracts to accomplish the same functionality. This also increases security guarantees.   
+Projects building on Cardano can/have created myriad of other Tokens for different use cases. These tokens reside on the base ledger like ada, in contrast to other blockchains which need smart contracts to accomplish the same functionality. This also increases security guarantees.   
 
 ## How to Buy
 
-Cardano, like many cryptocurrencies, can be easily bought and sold through most crypto exchanges such as [Coinbase](coinbase.com), Kraken, FTX, Binance, and many more.
+Cardano, like many cryptocurrencies, can be easily bought and sold through most crypto exchanges such as [Coinbase](coinbase.com), [Kraken](kraken.com), [FTX](ftx.com), [Binance](binance.com), and many more.
 
 ## Self Custody and Wallets
 
@@ -61,7 +61,7 @@ Two of the most popular wallets to take full advantage of interaction with Carda
 
 - [Nami](namiwallet.io) - Nami Wallet is another easy-to-use light wallet developed by Alessandro Konrad and love in the community. It can also be used for simple transactions, smart contract transactions, and staking with the Berry pool. 
 
-These will allow you to connect and interact with all the following DeFi Protocols, NFT Marketplaces, and stake your Ada. More on these in the following sections. 
+These will allow you to connect and interact with all the following DeFi Protocols, NFT Marketplaces, and stake your ada. More on these in the following sections. 
 
 If you want to run a Cardano full node wallet, Cardano has those too: 
 
@@ -69,21 +69,21 @@ If you want to run a Cardano full node wallet, Cardano has those too:
 
 After choosing a wallet, each platform will have steps and instructions on how to set them up securely and best practices around maintaining them. **Always remember to store your seed phrases in a safe place and never share them with anyone.**
 
-## Sending and Receiving ADA
+## Sending and Receiving Ada
 
-Each wallet's UI can be a little different, but in the end each Cardano wallet can send, receive, and stake Ada (more on staking later). Sending and receiving Ada is also possible on the exchanges above where you can purchase Ada. Whether using a wallet or exchange each transaction will look the same, as they are both on the Cardano blockchain. Both sending and receiving transaction consist of some amount of Ada and the respective type of address (which look like addr1qysmjy...). Cardano transactions can also include optional metadata, as well as the ability to "piggyback" any other Cardano tokens on the transaction. 
+Each wallet's UI can be a little different, but in the end each Cardano wallet can send, receive, and stake ada (more on staking later). Sending and receiving ada is also possible on the exchanges above where you can purchase ada. Whether using a wallet or exchange each transaction will look the same, as they are both on the Cardano blockchain. Both sending and receiving transaction consist of some amount of ada and the respective type of address (which look like addr1qysmjy...). Cardano transactions can also include optional metadata, as well as the ability to "piggyback" any other Cardano tokens on the transaction. 
 
-Your first time sending Ada may feel scary, but as long as you double and triple check the addresses you send to are the correct ones, it will be alright. 
+Your first time sending ada may feel scary, but as long as you double and triple check the addresses you send to are the correct ones, it will be alright. 
 
 You may also notice that some wallets like Daedalus and Eternl will give seemingly infinite options for receiving addresses, while Nami gives only one visible receiving address. This is normal and by design, and each wallet works the same under the hood. 
 
-## Staking your ADA
+## Staking your Ada
 
-Cardano is a blockchain with a Proof-of-Stake security consesus mechanism. This is a fancy way of saying that by staking your Ada you are doing your job in helping secure the Cardano blockchain. Staking itself is typically used to refer to the action of locking up a cryptocurrency with a custodian for a selected amount of time (i.e. 30,60,90 days, etc) after which you will receive custody back plus a percentage more of the cryptocurrency. This is to reward you for helping secure the chain, and also for allowing the custodian to hold those funds as collateral should bad actors try to take over the network (slashing). 
+Cardano is a blockchain with a Proof-of-Stake security consesus mechanism. This is a fancy way of saying that by staking your ada you are doing your job in helping secure the Cardano blockchain. Staking itself is typically used to refer to the action of locking up a cryptocurrency with a custodian for a selected amount of time (i.e. 30,60,90 days, etc) after which you will receive custody back plus a percentage more of the cryptocurrency. This is to reward you for helping secure the chain, and also for allowing the custodian to hold those funds as collateral should bad actors try to take over the network (slashing). 
 
-However, Cardano is quite different. It is plain to see in the typical staking scenarios that this is less than ideal. As such, Cardano was designed from the ground up with the most impressive staking mechanism in crypto. Cardano allows user to retain custody of their funds the entire time they stake with stakepools, with no lock up times, no sending to custodian, and no risk of slashing. These stakepools are similar to the "custodians" in the previous example, except you'll notice they never have custody of your Ada nor can they ever take it. 
+However, Cardano is quite different. It is plain to see in the typical staking scenarios that this is less than ideal. As such, Cardano was designed from the ground up with the most impressive staking mechanism in crypto. Cardano allows user to retain custody of their funds the entire time they stake with stakepools, with no lock up times, no sending to custodian, and no risk of slashing. These stakepools are similar to the "custodians" in the previous example, except you'll notice they never have custody of your ada nor can they ever take it. 
 
-For staking with these stakepools you will receive between 4-5% annual return in Ada on average. These are paid out every Epoch (~5 days). Don't be disheartened if you see one Epoch rewards at 0.5% and another at 10%. The average annual return is just that, an average. 
+For staking with these stakepools you will receive between 4-5% annual return in ada on average. These are paid out every Epoch (~5 days). Don't be disheartened if you see one Epoch rewards at 0.5% and another at 10%. The average annual return is just that, an average. 
 
 To find a good stakepool, I recommend browsing through the community members's Twitter accounts below and finding someone you resonate with and would like to support. 
 
@@ -91,7 +91,7 @@ To find a good stakepool, I recommend browsing through the community members's T
 
 Culturally, artistically, and utility-wise NFTs are used much the same way as other blockchain ecosystems. They allow users to create, buy, sell, and collect digital art and collectibles. NFT use cases will continue to expands into gaming, authorization systems, and many, many other utilitarian cases. 
 
-However, there is one huge difference compare to some others: on Cardano NFTs (just like fungible tokens mentioned earlier) are native to the base Cardano ledger, giving them largely the same security guarantees as Cardano’s native token Ada itself. 
+However, there is one huge difference compare to some others: on Cardano NFTs (just like fungible tokens mentioned earlier) are native to the base Cardano ledger, giving them largely the same security guarantees as Cardano’s native token ada itself. 
 
 This is in contrast to many other blockchains which accomplish these token technologies with the use of complicated smart contracts instead, which also reduces security guarantees. 
 
@@ -181,7 +181,7 @@ While Decentralized Finance (DeFi) is still getting started on Cardano, many pro
 
 ### DEXes 
 
-Cardano currently has many working Decentralized Exchanges (DEXes). These DEXes allow swapping between native token Ada and other fungible project tokens (examples in square brackets below) without a centralized power (I.e. bank/exchange) having custody of the funds and trades. Rather it all takes place through Smart Contracts and code. Listed below are some of the most popular choices: 
+Cardano currently has many working Decentralized Exchanges (DEXes). These DEXes allow swapping between native token ada and other fungible project tokens (examples in square brackets below) without a centralized power (I.e. bank/exchange) having custody of the funds and trades. Rather it all takes place through Smart Contracts and code. Listed below are some of the most popular choices: 
 
 - [Minswap](minswap.org) [MIN] - Minswap is currently the most popular DEX on Cardano and provides a very smooth user experience for trading. They also allow for providing liquidity and yield farming. 
 
@@ -197,11 +197,11 @@ Cardano currently has many working Decentralized Exchanges (DEXes). These DEXes 
 
 Cardano has a few Lend/Borrow protocols on the rise, soon to be released this summer. Lend/borrow protocols are exactly what they sound like: these dApps will allow users to either lend funds and earn interest rates on those funds, or put up collateral and borrow funds in a decentralized manner. Listed below are some of the heavy hitters in the space: 
 
-- [Liqwid](liqwid.finance) [LQ] - Liqwid Finance will allow for both lending and borrowing of Ada, and other assets. Users will be rewarded with interest rates and distributions of its LQ token. It’s biggest claim to fame is its 4x sources of Yield from one lending deposit. Check out its site for more details. 
+- [Liqwid](liqwid.finance) [LQ] - Liqwid Finance will allow for both lending and borrowing of ada, and other assets. Users will be rewarded with interest rates and distributions of its LQ token. It’s biggest claim to fame is its 4x sources of Yield from one lending deposit. 
 
-- [Aada](aada.finance) [AADA] - Aada Finance will allow for both lending and borrowing of Ada, and other assets. Users will be rewarded with interest rates and distributions of its AADA token.
+- [Aada](aada.finance) [AADA] - Aada Finance will allow for both lending and borrowing of ada, and other assets. Users will be rewarded with interest rates and distributions of its AADA token.
 
-- [MELD](meld.com) [MELD] - MELD Finance will allow for both lending and borrowing of Ada, and other assets. Users will be rewarded with interest rates and distributions of its MELD token.
+- [MELD](meld.com) [MELD] - MELD Finance will allow for both lending and borrowing of ada, and other assets. Users will be rewarded with interest rates and distributions of its MELD token.
 
 ### Stablecoin Protocols 
 
@@ -209,15 +209,15 @@ Cardano has also has a few stablecoins and stablecoin protocols on the rise, man
 
 - [Ardana](ardana.org) [DANA] - Ardana will be a platform for a specialized stablecoin swap, optimized for low slippage, and ways to earn yield on those stablecoins. It will also include its own stablecoin DUSD. 
 
-- [LiquidX](liqwidx.org) [LQUSD] - LiqwidX is a branch of the Liqwid finance project and team. It will allow users to borrow LQUSD against ADA at 0% interest.
+- [LiquidX](liqwidx.org) [LQUSD] - LiqwidX is a branch of the Liqwid finance project and team. It will allow users to borrow LQUSD against ada at 0% interest.
 
-- [DJED](djed.xyz) [DJED] - DJED will be an algorithmic stablecoin, and at a high level will be over collateralized by Ada and it’s backing token SHEN. DJED is based off an IOG academic paper and is being implemented by the company COTI. 
+- [DJED](djed.xyz) [DJED] - DJED will be an algorithmic stablecoin, and at a high level will be over collateralized by ada and it’s backing token SHEN. DJED is based off an IOG academic paper and is being implemented by the company COTI. 
 
 ### ISPOs and Token Distributions
 
 Due to Cardano’s unique non-custodial staking mechanism, there has evolved interesting and risk free way for projects to bootstrap funds, while simultaneously being able to reward early believers in a project. This has been called Initial Stake Pool Offerings. 
 
-This technique, first described by SundaeSwap, involves a project setting up a stakepool where early believers can stake their Ada allowing the project to reap the Ada rewards to fund themselves, while those staking receive tokens of the project (essentially airdrops). All of this while the Ada never leaves their wallet. 
+This technique, first described by SundaeSwap, involves a project setting up a stakepool where early believers can stake their ada allowing the project to reap the ada rewards to fund themselves, while those staking receive tokens of the project (essentially airdrops). All of this while the ada never leaves their wallet. 
 
 There has been one project that has expanded upon this idea of project token distribution, given it more flexibility, allow projects to skip making their own distribution code, and made it possible if projects do not want to create their own pool. 
 
