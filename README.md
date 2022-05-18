@@ -41,7 +41,9 @@ Cardano is the name of blockchain and the project as a whole.
 
 Ada is the Native Token of the Cardano blockchain, the base transaction unit. 
 
-Projects building on Cardano can/have created myriad of other Tokens for different use cases. These tokens reside on the base ledger like ada, in contrast to other blockchains which need smart contracts to accomplish the same functionality. This also increases security guarantees.   
+Projects building on Cardano can/have created myriad of other Tokens for different use cases. These tokens reside on the base ledger like ada, in contrast to other blockchains which need smart contracts to accomplish the same functionality. This also increases security guarantees. 
+
+For a more in depth explanation check out the Cardano Foundation [website](cardano.org).
 
 ## How to Buy
 
@@ -77,6 +79,8 @@ Your first time sending ada may feel scary, but as long as you double and triple
 
 You may also notice that some wallets like Daedalus and Eternl will give seemingly infinite options for receiving addresses, while Nami gives only one visible receiving address. This is normal and by design, and each wallet works the same under the hood. 
 
+For a more in depth explanation check out the Cardano Foundation [website](cardano.org).
+
 ## Staking your Ada
 
 Cardano is a blockchain with a Proof-of-Stake security consesus mechanism. This is a fancy way of saying that by staking your ada you are doing your job in helping secure the Cardano blockchain. Staking itself is typically used to refer to the action of locking up a cryptocurrency with a custodian for a selected amount of time (i.e. 30,60,90 days, etc) after which you will receive custody back plus a percentage more of the cryptocurrency. This is to reward you for helping secure the chain, and also for allowing the custodian to hold those funds as collateral should bad actors try to take over the network (slashing). 
@@ -86,6 +90,8 @@ However, Cardano is quite different. It is plain to see in the typical staking s
 For staking with these stakepools you will receive between 4-5% annual return in ada on average. These are paid out every Epoch (~5 days). Don't be disheartened if you see one Epoch rewards at 0.5% and another at 10%. The average annual return is just that, an average. 
 
 To find a good stakepool, I recommend browsing through the community members's Twitter accounts below and finding someone you resonate with and would like to support. 
+
+For a more in depth explanation check out the Cardano Foundation [website](cardano.org).
 
 ## NFTs on Cardano
 
