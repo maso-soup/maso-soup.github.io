@@ -71,11 +71,21 @@ After choosing a wallet, each platform will have steps and instructions on how t
 
 ## Sending and Receiving ADA
 
-**todo**
+Each wallet's UI can be a little different, but in the end each Cardano wallet can send, receive, and stake Ada (more on staking later). Sending and receiving Ada is also possible on the exchanges above where you can purchase Ada. Whether using a wallet or exchange each transaction will look the same, as they are both on the Cardano blockchain. Both sending and receiving transaction consist of some amount of Ada and the respective type of address (which look like addr1qysmjy...). Cardano transactions can also include optional metadata, as well as the ability to "piggyback" any other Cardano tokens on the transaction. 
+
+Your first time sending Ada may feel scary, but as long as you double and triple check the addresses you send to are the correct ones, it will be alright. 
+
+You may also notice that some wallets like Daedalus and Eternl will give seemingly infinite options for receiving addresses, while Nami gives only one visible receiving address. This is normal and by design, and each wallet works the same under the hood. 
 
 ## Staking your ADA
 
-**todo**
+Cardano is a blockchain with a Proof-of-Stake security consesus mechanism. This is a fancy way of saying that by staking your Ada you are doing your job in helping secure the Cardano blockchain. Staking itself is typically used to refer to the action of locking up a cryptocurrency with a custodian for a selected amount of time (i.e. 30,60,90 days, etc) after which you will receive custody back plus a percentage more of the cryptocurrency. This is to reward you for helping secure the chain, and also for allowing the custodian to hold those funds as collateral should bad actors try to take over the network (slashing). 
+
+However, Cardano is quite different. It is plain to see in the typical staking scenarios that this is less than ideal. As such, Cardano was designed from the ground up with the most impressive staking mechanism in crypto. Cardano allows user to retain custody of their funds the entire time they stake with stakepools, with no lock up times, no sending to custodian, and no risk of slashing. These stakepools are similar to the "custodians" in the previous example, except you'll notice they never have custody of your Ada nor can they ever take it. 
+
+For staking with these stakepools you will receive between 4-5% annual return in Ada on average. These are paid out every Epoch (~5 days). Don't be disheartened if you see one Epoch rewards at 0.5% and another at 10%. The average annual return is just that, an average. 
+
+To find a good stakepool, I recommend browsing through the community members's Twitter accounts below and finding someone you resonate with and would like to support. 
 
 ## NFTs on Cardano
 
