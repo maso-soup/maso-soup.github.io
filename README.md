@@ -33,6 +33,12 @@ When asked to explain what the point of Cardano is in 280 characters or less, Ca
 
 While I could write a whole article about that topic, I think this encompasses the sentiment of why many of us in the community so strongly support Cardano and it’s mission. It is a blockchain to change the many entrenched systems of the world and is for everyone, all 7 billion of us. 
 
+From the Cardano Foundation [website](cardano.org): 
+
+Cardano is a decentralized third-generation proof-of-stake blockchain platform and home to the ada cryptocurrency. It has been designed from the ground up by a team of top engineers and academic experts.
+
+Cardano has a strong focus on sustainability, scalability, and transparency and is a fully open source project that aims to deliver an inclusive, fair, and resilient infrastructure for financial and social applications on a global scale. It is powered by Ouroboros, the ground-breaking proof-of-stake consensus protocol.
+
 ## Cardano, Ada, and Tokens
 
 Before we continue, I want to clarify a few terms that are used interchangeably in crypto, including within the Cardano ecosystem itself: 
