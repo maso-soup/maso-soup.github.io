@@ -31,13 +31,14 @@ When asked to explain what the point of Cardano is in 280 characters or less, Ca
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Cardano is an open platform that seeks to provide economic identity to the billions who lack it by providing decentralized applications to manage identity, value and governance</p>&mdash; Charles Hoskinson (@IOHK_Charles) <a href="https://twitter.com/IOHK_Charles/status/1290058248347770880?ref_src=twsrc%5Etfw">August 2, 2020</a></blockquote>
 
-While I could write a whole article about that topic, I think this encompasses the sentiment of why many of us in the community so strongly support Cardano and it’s mission. It is a blockchain to change the many entrenched systems of the world and is for everyone, all 7 billion of us. 
+This encompasses the sentiment of why many of us in the community so strongly support Cardano and it’s mission. It is a blockchain to change the many entrenched systems of the world and is for everyone, all 7 billion of us. 
 
 From the Cardano Foundation [website](cardano.org): 
 
-Cardano is a decentralized third-generation proof-of-stake blockchain platform and home to the ada cryptocurrency. It has been designed from the ground up by a team of top engineers and academic experts.
+Cardano is a proof-of-stake blockchain platform: the first to be founded on peer-reviewed research and developed through evidence-based methods. It combines pioneering technologies to provide unparalleled security and sustainability to decentralized applications, systems, and societies.
 
-Cardano has a strong focus on sustainability, scalability, and transparency and is a fully open source project that aims to deliver an inclusive, fair, and resilient infrastructure for financial and social applications on a global scale. It is powered by Ouroboros, the ground-breaking proof-of-stake consensus protocol.
+With a leading team of engineers, Cardano exists to redistribute power from unaccountable structures to the margins – to individuals – and be an enabling force for positive change and progress.
+
 
 ## Cardano, Ada, and Tokens
 
