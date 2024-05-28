@@ -8,4 +8,4 @@ LinkedIn
 
 Other stuff
 
-[Cardano Quickstart Guide](https://masonjon.es/cardano-guide/)
+[Cardano Quickstart Guide](cardano-guide/README.md)
