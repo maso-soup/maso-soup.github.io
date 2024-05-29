@@ -1,0 +1,11 @@
+#Obsidian Templates folder
+/Templates
+#Copyright Course Materials
+/Learning/OffSec
+/Learning/Web Security Academy/
+#Obsidian Settings
+.obsidian
+#Jekyll Settings
+_config.yml
+#Forget what this is
+.DS_Store
