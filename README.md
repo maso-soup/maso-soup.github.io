@@ -6,9 +6,11 @@ I'm a penetration testing and information security engineer. Currently studying 
 
 ## Content
 
-[Cloudfoxable Walkthroughs](Learning/Cloudfoxable/Cloudfoxable.md)
+[Learning](Learning/README.md)
 
-[Resume](Resume)
+[Reference Material](References/README.md)
+
+[Resume](Resume.md)
 
 
 
