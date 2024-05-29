@@ -1,14 +1,14 @@
 # Mason Jones
 
-Email: --
-Phone: --
+Email: [Super Secret]
+Phone: [Super Secret]
 Location: Virginia, US
 Website: masonjon.es
 LinkedIn: www.linkedin.com/in/mason-jones-security
 
 ## Professional Experience
 
-### --
+### [Super Secret]
 
 #### Senior InfoSec Engineer - January 2023 to Present
 
@@ -32,7 +32,7 @@ LinkedIn: www.linkedin.com/in/mason-jones-security
 ## Education
 
 ### University Degree
-- Bachelor of Computer Engineering from -- (Sept 2014 - May 2018)
+- Bachelor of Computer Engineering from [Super Secret] (Sept 2014 - May 2018)
 
 ### Technical Certifications
 - GIAC Penetration Tester (GPEN)
