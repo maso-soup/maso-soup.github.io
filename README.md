@@ -1,7 +1,8 @@
 # Mason Jones
 
-## Bio
-
-I am a penetration tester and security engineer at a major financial institution. 
-
-I am also an investor and trader in cryptocurrencies and equities, more details at 3eleven.io.
+Born in 1996
+Bachelor's of Science in Computer Engineering
+OSCP certified penetration tester
+Senior security engineer at a major financial institution
+Quantitative cryptocurrency investor with macro and risk-based approach at 3eleven.io
+Student of Benjamin Cowen at ITC
