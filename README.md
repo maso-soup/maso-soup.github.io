@@ -8,6 +8,6 @@ OSCP certified penetration tester
 
 Senior security engineer at a major financial institution
 
-Quantitative cryptocurrency investor with macro and risk-based approach at 3eleven.io
+Quantitative, macro-focused cryptocurrency investor at 3eleven.io
 
-Student of Benjamin Cowen at ITC
+Student of Benjamin Cowen of ITC
