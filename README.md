@@ -1,5 +1,3 @@
-# Mason Jones
-
 Born in 1996
 
 Bachelor's of Science in Computer Engineering
