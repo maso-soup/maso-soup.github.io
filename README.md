@@ -1,11 +1,9 @@
-Born in 1996
-
 Bachelor's of Science in Computer Engineering
 
 OSCP certified penetration tester
 
 Senior security engineer at major financial institution
 
-Quantitative, macro-focused cryptocurrency investor at [3eleven.io](https://3eleven.io/)
+Current OSWE student, aspiring vulnerability researcher
 
-Student of Benjamin Cowen of ITC
+My notes are on (GitBook)[https://maso-soup.gitbook.io/cyber/challenges]
