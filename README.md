@@ -4,7 +4,7 @@ OSCP certified penetration tester
 
 Senior security engineer at major financial institution
 
-Current OSWE student
+Currently leveraging AI before AI leverages me
 
 My notes and write-ups are on [GitBook](https://maso-soup.gitbook.io/)
 
